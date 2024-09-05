@@ -1,0 +1,72 @@
+
+.projeto__ahri{
+   color: #ECDFCC; 
+   margin-right: 60%;
+   font-style: oblique;
+}
+.projeto__cor{
+    background-color: #1E201E;
+}
+.projeto__imagem{
+    width: 20%;
+    border-radius: 300px;
+}
+.projeto__titulo{
+    margin-bottom: 10%;
+    font-size: 1.2rem;
+}
+.projeto_imagem_maestria{
+    width: 15%;
+}
+.projeto__habilidades{
+    text-align: center;
+}
+.projeto_historia{
+    color: #ECDFCC;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin-left: 15%;
+}
+.projeto_referencia{
+    color: #ECDFCC; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin-left: 50%;
+}
+.projeto_perfil{
+    color: aquamarine;
+}
+.projeto_cor-de-fundo{
+background-color: #3C3D37;
+border-radius: 300px;
+}
+.projeto_finalizacao{
+    color: #ECDFCC;
+    background-color: #3C3D37;
+    text-align: center; 
+    border-radius: 300px;
+}
+.projeto_gif_heart{
+    position: absolute;
+    top: 460px;
+    left: 800px;
+    border-radius: 300px;
+    border: 5px solid #1E201E;
+}
+.projeto_gif_florecer{
+    position: absolute;
+    top: 1050px;
+    left: 800px;
+    border-radius: 600px;
+    border: 5px solid #1E201E;
+}
+.projeto_gif_xkko{
+    position: absolute;
+    top: 1350px;
+    left: 880px;
+    border-radius: 600px;
+    border: 5px solid #1E201E;
+}
+a{
+text-decoration: none;
+}

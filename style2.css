@@ -1,0 +1,26 @@
+.projeto_referencia{
+    background-color: #352F44;
+    color: #FAF0E6;
+    text-align: center;
+}
+.projeto_link{
+    color: #FAF0E6;
+}
+.projeto_imagem_1{
+    width: 20%;
+}
+.projeto_imagem_2{
+    width: 20%;
+}
+.projeto_historia{
+    color: #FAF0E6; 
+}
+a{
+    color: #FAF0E6;
+}
+.projeto_finalizacao {
+    color: #FAF0E6;
+    background-color: #5C5470;
+    text-align: center; 
+    border-radius: 300px;
+}
