@@ -20,12 +20,14 @@
 }
 .projeto__habilidades{
     text-align: center;
+   text-decoration: none;
 }
 .projeto_historia{
     color: #ECDFCC;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
     margin-left: 15%;
+   text-decoration: none;
 }
 .projeto_referencia{
     color: #ECDFCC; 
